@@ -2,6 +2,7 @@
   "name": "throttled",
   "version": "0.0.0",
   "description": "create functions which only run once per event loop",
+  "keywords": ["throttle", "event", "loop", "once"],
   "main": "index.js",
   "scripts": {
     "test": "mocha"

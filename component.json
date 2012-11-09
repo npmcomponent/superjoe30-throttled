@@ -3,7 +3,7 @@
   "repo": "superjoe30/throttled",
   "description": "create functions which only run once per event loop",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["throttle", "event", "loop", "once"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
