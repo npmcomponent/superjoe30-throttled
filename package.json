@@ -1,16 +1,13 @@
 {
-  "name": "throttled",
-  "version": "0.0.1",
+  "name": "superjoe30-throttled",
   "description": "create functions which only run once per event loop",
-  "keywords": ["throttle", "event", "loop", "once"],
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha"
-  },
-  "repository": "git://github.com/superjoe30/throttled.git",
-  "author": "",
-  "license": "MIT",
-  "devDependencies": {
-    "mocha": "~1.7.0"
-  }
+  "version": "0.0.1",
+  "keywords": [
+    "throttle",
+    "event",
+    "loop",
+    "once"
+  ],
+  "dependencies": {},
+  "license": "MIT"
 }

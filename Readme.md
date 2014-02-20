@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [superjoe30/throttled](http://github.com/superjoe30/throttled). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/superjoe30-throttled`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # throttled
 
   Create functions which only run once per event loop.
